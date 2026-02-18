@@ -7,8 +7,11 @@ public class DemoTest {
 		int a = 10;
 		int b = 20;
 		int total = a + b;
-		int division=a-b;
+		int division = a - b;
+		int multiplier = a * b;
 		System.out.println(total);
+		System.out.println(division);
+		System.out.println(multiplier);
 	}
 
 }
