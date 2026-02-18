@@ -14,6 +14,14 @@ public class DemoTest {
 		System.out.println(division);
 		System.out.println(multiplier);
 		System.out.println(multipication);
+		
+		
+	}
+	
+	public void getMethod()
+	{
+		int a=20;
+		int b=30;
 	}
 
 }
