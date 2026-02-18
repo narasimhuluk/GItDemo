@@ -7,6 +7,7 @@ public class DemoTest {
 		int a = 10;
 		int b = 20;
 		int total = a + b;
+		int division=a-b;
 		System.out.println(total);
 	}
 
